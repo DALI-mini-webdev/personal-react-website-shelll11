@@ -1,0 +1,38 @@
+* {
+  font-family:'Courier New', Courier, monospace;
+  background-color:lightsteelblue;
+  text-align: center;
+}
+
+.title {
+  color:cornflowerblue;
+}
+h1 {
+  color:rgba(255, 127, 80, 0.822);
+}
+
+p {
+  color:rgb(3, 31, 73);
+}
+
+.ButtonTest {
+  padding: 5px;
+  margin: 10px;
+  background-color:cornflowerblue;
+  color: white;
+  border-color: rgb(15, 15, 75);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+  border-style: ridge;
+}
+
+.Family {
+  background-color: rgba(255, 127, 80, 0.822);
+  color: white;
+  border-color: rgb(3, 31, 73);
+  border-radius: 10px;
+  border-style:ridge;
+  padding: 5px;
+  margin: 10px;
+}
