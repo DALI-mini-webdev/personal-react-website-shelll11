@@ -1,5 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from "./components/Navbar/Navbar";
+import ProfilePic from "./components/ProfilePic/ProfilePic";
 import sister from './assets/images/me_and_sister.jpg';
 import holly from './assets/images/holly.jpg';
 
@@ -19,8 +20,13 @@ function App() {
     )
   });
   return (
-    
     <div className="App">
+      
+      <Navbar />
+      <div></div>
+      <div></div>
+      <ProfilePic />
+
       <head>
     <title>About Me</title>
 </head>

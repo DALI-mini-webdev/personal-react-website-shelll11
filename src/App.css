@@ -1,18 +1,27 @@
 * {
-  font-family:'Courier New', Courier, monospace;
-  background-color:lightsteelblue;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
 }
 
 .title {
   color:cornflowerblue;
 }
+
 h1 {
   color:rgba(255, 127, 80, 0.822);
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
 }
 
 p {
   color:rgb(3, 31, 73);
+  margin-bottom: 20px;
 }
 
 .ButtonTest {
